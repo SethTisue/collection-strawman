@@ -6,7 +6,7 @@ addSbtPlugin("pl.project13.scala" % "sbt-jmh" % "0.2.20")
 
 addSbtPlugin("ch.epfl.lamp" % "sbt-dotty" % "0.1.7")
 
-addSbtPlugin("org.scala-js" % "sbt-scalajs" % "0.6.20")
+addSbtPlugin("org.scala-js" % "sbt-scalajs" % "0.6.22")
 
 // for bencharts
 libraryDependencies ++= Seq(
